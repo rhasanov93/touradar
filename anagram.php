@@ -19,11 +19,3 @@
       return true;
 
    }
-
-
-$str1 = "AstroNomers";
-$str2 = "no more stars";
-
-$result = is_anagram($str1,$str2);
-
-echo $result;
